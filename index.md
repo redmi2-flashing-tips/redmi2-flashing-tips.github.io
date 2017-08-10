@@ -1,7 +1,3 @@
-title: 红米 2 ROM 资源简单整理
-
----
-
 ### LineageOS
 
 * [官网地址](https://lineageos.org)
