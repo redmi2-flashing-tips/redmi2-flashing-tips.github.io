@@ -3,7 +3,7 @@
 # 红米2-第三方资源
 
 LineageOS (Official)
-
+>![LineageOS](https://lh3.googleusercontent.com/-eAwukrnUcv0/AAAAAAAAAAI/AAAAAAAAAA4/9AoF2GD_RVs/w360-h203-p-rw/photo.jpg)
 > 作者:nicknitewolf
 
 * [官方地址](https://download.lineageos.org/wt88047)
