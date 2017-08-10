@@ -15,7 +15,7 @@
 
 * [下载地址](http://dwnld.aicp-rom.com)
 
-### MoKee (魔趣)
+### Mokee (魔趣)
 
 * [下载地址](http://download.mokeedev.com/?device=wt88047)
 
@@ -56,9 +56,25 @@
 
 #### Marshmallow
 
+### CyanogenMod 13
 
+> [by ketut.kumajaya](https://forum.xda-developers.com/redmi-2/development/rom-cyanogenmod-unofficial-builds-t3267958)
 
-### 
+* [度盘搬运](http://pan.baidu.com/share/link?shareid=2892720592&uk=926119307)
+
+### Mokee (魔趣)
+
+* [下载地址](https://download.mokeedev.com/?device=wt88047)
+
+### Flyme 6
+
+* [下载地址](http://www.flyme.cn/firmwarelist-29.html#7)
+
+### Dirty Unicorns
+
+> [by s.sawrav](https://forum.xda-developers.com/redmi-2/development/rom-dirty-unicorns-v10-2-unofficial-6-0-t3383619)
+
+* [下载地址](https://www.androidfilehost.com/?fid=24686681827315630)
 
 ------
 如有任何问题，欢迎您前往本 GitHub Pages 的 [Issues](https://github.com/redmi2-flashing-tips/redmi2-flashing-tips.github.io/issues) 页面新建 Issue 询问
