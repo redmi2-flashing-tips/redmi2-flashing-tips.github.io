@@ -11,9 +11,13 @@ LineageOS (Official)
 
 Mokee
 
+> 作者:马丁龙猪
+
 * [官网地址](http://download.mokeedev.com/?device=wt88047)
 
 AICP
+
+> 作者:s.sawrav
 
 * [官网地址](http://dwnld.aicp-rom.com/?device=wt88047)
 * [维护者帖子](http://forum.xda-developers.com/redmi-2/development/rom-t3482670)
