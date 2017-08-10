@@ -37,7 +37,7 @@
 
 ### SudoMod
 
-* [下载地址](http://sudamod.download/wt88047]
+* [下载地址](http://sudamod.download/wt88047)
 
 ### CAF AOSP (64bit)
 
