@@ -88,7 +88,7 @@
 
 ### VisionUI 3.0
 
-> [CaraRoot Forum](http://pan.baidu.com/share/link?shareid=3649612348&uk=926119307)
+> [CaraRoot Forum](http://www.cararoot.com/2016/11/port-rom-vision-ui-3-0-lollipop-buat-redmi-2.html)
 
 * [度盘搬运](http://pan.baidu.com/share/link?shareid=3649612348&uk=926119307)
 
