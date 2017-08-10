@@ -1,4 +1,6 @@
-## 第三方ROM
+# 第三方ROM
+
+#### Nougat
 
 ### LineageOS
 
@@ -23,6 +25,12 @@
 
 * [下载地址](https://sourceforge.net/projects/resurrectionremix/files/?source=navbar)
 
+### ViperOS
+
+> [by Keertesh](https://forum.xda-developers.com/redmi-2/development/rom-viperos-t3626150)
+
+* [下载地址](https://forum.xda-developers.com/redmi-2/development/rom-viperos-t3626150)
+
 ### AOSP Extended
 
 > [by s.sawrav](https://forum.xda-developers.com/redmi-2/development/rom-aospextended-rom-v1-1-t3486744)
@@ -46,7 +54,9 @@
 * [下载地址](https://www.androidfilehost.com/?fid=673368273298975544)
 * [64bit TWRP](https://www.androidfilehost.com/?fid=889764386195900855)
 
-## 第三方Kernel
+#### Marshmallow
+
+
 
 ### 
 
