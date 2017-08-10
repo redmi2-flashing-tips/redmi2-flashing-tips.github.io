@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: 红米 2 刷机资源简单整理
+description: May the Flashing be with you
+kramdown:
+  extensions:
+    - autolink
