@@ -43,7 +43,7 @@
 
 * [下载地址](https://www.androidfilehost.com/?a=show&w=files&flid=57852)
 
-### SudoMod
+### SudaMod
 
 * [下载地址](http://sudamod.download/wt88047)
 
