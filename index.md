@@ -1,39 +1,48 @@
-![LineageOS](https://lh3.googleusercontent.com/-eAwukrnUcv0/AAAAAAAAAAI/AAAAAAAAAA4/9AoF2GD_RVs/w360-h203-p-rw/photo.jpg)
+LineageOS
 
-# 红米2-第三方资源
+* [官网地址](https://lineageos.org)
+* [下载地址](https://download.lineageos.org)
+* [中科大源](https://mirrors.ustc.edu.cn/lineageos/)
 
-LineageOS (Official)
->![LineageOS](https://lh3.googleusercontent.com/-eAwukrnUcv0/AAAAAAAAAAI/AAAAAAAAAA4/9AoF2GD_RVs/w360-h203-p-rw/photo.jpg)
-> 作者:nicknitewolf
+OmniROM
 
-* [官方地址](https://download.lineageos.org/wt88047)
-* [作者帖子](https://forum.xda-developers.com/redmi-2/development/rom-lineageos-14-1-t3529286)
+* [官网地址](https://omnirom.org)
+* [下载地址](https://omnirom.org/downloads/)
 
-Mokee (Official)
+SlimRoms
 
-> 作者:马丁龙猪
+* [官网地址](https://slimroms.org)
+* [下载地址](https://slimroms.org/#/download)
 
-* [官方地址](http://download.mokeedev.com/?device=wt88047)
+Dirty Unicorns
 
-AICP (Official)
+* [官网地址](http://dirtyunicorns.com)
+* [下载地址](https://download.dirtyunicorns.com)
 
-> 作者:s.sawrav
+AICP
 
-* [官方地址](http://dwnld.aicp-rom.com/?device=wt88047)
-* [作者帖子](http://forum.xda-developers.com/redmi-2/development/rom-t3482670)
+* [下载地址](http://dwnld.aicp-rom.com)
 
+MoKee (魔趣)
 
-ResurrectionRemix (Official)
+* [官网地址](http://www.mokeedev.com)
+* [下载地址](http://download.mokeedev.com)
 
-> 作者:s.sawrav
+ResurrectionRemix
 
-* [官方地址](https://sourceforge.net/projects/resurrectionremix/files/wt88047/N/)
-* [作者帖子](https://forum.xda-developers.com/redmi-2/development/redmi-2-resurrection-remix-5-8-0-t3530566)
+* [官网地址](http://www.resurrectionremix.com)
+* [下载地址](https://sourceforge.net/projects/resurrectionremix/files/?source=navbar)
 
-AospExtended (Official)
+Paranoid Android (AOSPA)
 
-> 作者:s.sawrav
+* [官网地址](http://aospa.co)
+* [下载地址](http://get.aospa.co/official)
 
-* [官方地址](http://downloads.aospextended.com/wt88047/)
-* [作者帖子](https://forum.xda-developers.com/redmi-2/development/rom-aospextended-rom-v1-1-t3486744)
+AOSP Extended
+
+* [下载地址](http://downloads.aospextended.com)
+
+Nitrogen
+
+* [下载地址](https://sourceforge.net/projects/nitrogen-project/files/)
 
