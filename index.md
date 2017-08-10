@@ -9,13 +9,13 @@ LineageOS (Official)
 * [官网地址](https://download.lineageos.org/wt88047)
 * [维护者帖子](https://forum.xda-developers.com/redmi-2/development/rom-lineageos-14-1-t3529286)
 
-Mokee
+Mokee (Official)
 
 > 作者:马丁龙猪
 
 * [官网地址](http://download.mokeedev.com/?device=wt88047)
 
-AICP
+AICP (Official)
 
 > 作者:s.sawrav
 
@@ -23,6 +23,7 @@ AICP
 * [维护者帖子](http://forum.xda-developers.com/redmi-2/development/rom-t3482670)
 
 
-ResurrectionRemix
+ResurrectionRemix (Official)
 
-* [官网地址]
+* [官方下载](https://sourceforge.net/projects/resurrectionremix/files/wt88047/N/)
+* [维护者帖子](https://forum.xda-developers.com/redmi-2/development/redmi-2-resurrection-remix-5-8-0-t3530566)
