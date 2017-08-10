@@ -76,6 +76,36 @@
 
 * [下载地址](https://www.androidfilehost.com/?fid=24686681827315630)
 
+#### Lollipop
+
+**以下ROM请看度盘搬运内的刷前说明，可能不适合日常使用**
+
+### EMUI 3.1
+
+> [CaraRoot Forum](http://www.cararoot.com/2016/09/cara-install-port-rom-emui-3-1-android-5-1-1-lollipop-untuk-redmi-2.html)
+
+* [度盘搬运](http://pan.baidu.com/share/link?shareid=296444370&uk=926119307)
+
+### VisionUI 3.0
+
+> [CaraRoot Forum](http://pan.baidu.com/share/link?shareid=3649612348&uk=926119307)
+
+* [度盘搬运](http://pan.baidu.com/share/link?shareid=3649612348&uk=926119307)
+
+### Funtouch 2.5
+
+> [CaraRoot Forum](https://www.cararoot.com/2016/12/rom-funtouch-2-5-lollipop-buat-redmi-2.html)
+
+* [度盘搬运](http://pan.baidu.com/share/link?shareid=3774313830&uk=926119307)
+
+### ColorOS 3.0
+
+> [by Aray](https://www.facebook.com/groups/redmi2s.indonesia/search/?query=aray)
+
+* [度盘搬运](http://pan.baidu.com/share/link?shareid=274954618&uk=926119307)
+
+**注意!64位需要在MIUI 5.1 bootloader环境下运行，刷64bit twrp或ROM前需要5.1底包**
+
 ------
 如有任何问题，欢迎您前往本 GitHub Pages 的 [Issues](https://github.com/redmi2-flashing-tips/redmi2-flashing-tips.github.io/issues) 页面新建 Issue 询问
 
