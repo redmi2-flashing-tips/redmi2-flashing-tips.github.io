@@ -1,3 +1,6 @@
+**刷机有风险，请谨慎考虑**
+**仅供学习交流，如有版权问题，请联系我删改**
+
 # 第三方ROM
 
 #### Nougat
@@ -247,7 +250,7 @@
 
 # 常用资源
 
-### Open Gapps(谷歌服务包)
+### Open Gapps (谷歌服务包)
 
 > [by MastahF](http://forum.xda-developers.com/android/software/pa-gapps-continuation-t3098071)
 
