@@ -17,7 +17,7 @@
 
 > [by s.sawrav](https://forum.xda-developers.com/redmi-2/development/rom-t3482670)
 
-* [下载地址](http://dwnld.aicp-rom.com)
+* [下载地址](http://dwnld.aicp-rom.com/?device=wt88047)
 
 ### Mokee (魔趣)
 
@@ -33,7 +33,7 @@
 
 > [by Keertesh](https://forum.xda-developers.com/redmi-2/development/rom-viperos-t3626150)
 
-* [下载地址](https://forum.xda-developers.com/redmi-2/development/rom-viperos-t3626150)
+* [下载地址](https://download.viper-os.com/CODENAME/)
 
 ### AOSP Extended
 
