@@ -249,10 +249,20 @@
 ### Xposed (暂不支持Android 7.0+)
 
 > [by Rovo89](http://forum.xda-developers.com/showthread.php?t=3034811)
-[by DVDAndroid](http://forum.xda-developers.com/devdb/project/?id=13191#downloads)
+> [by DVDAndroid](http://forum.xda-developers.com/devdb/project/?id=13191#downloads)
 
 * [Xposed框架包](http://dl-xda.xposed.info/framework/)
 * [Xposed Installer](http://forum.xda-developers.com/devdb/project/?id=13191#downloads)
+
+### TWRP
+
+* [官网地址](https://twrp.me/Devices/)
+
+### TWRP Materialised (TWRP主题)
+
+> [by z31s1g](https://forum.xda-developers.com/android/themes/theme-twrp-materialised-dark-light-play-t2915584)
+
+* [下载地址](https://www.androidfilehost.com/?w=files&flid=189837)
 
 ------
 如有任何问题，欢迎您前往本 GitHub Pages 的 [Issues](https://github.com/redmi2-flashing-tips/redmi2-flashing-tips.github.io/issues) 页面新建 Issue 询问
