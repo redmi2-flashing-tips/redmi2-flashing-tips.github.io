@@ -111,7 +111,7 @@
 **注意!64位需要在MIUI 5.1 bootloader环境下运行，刷64bit twrp或ROM前需要5.1底包**
 
 
-##### MIUI海外版
+**MIUI海外版**
 
 ### MIUI Pro (白俄罗斯)
 
