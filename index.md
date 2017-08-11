@@ -13,7 +13,7 @@
 > [by nicknitewolf](https://forum.xda-developers.com/redmi-2/development/rom-lineageos-14-1-t3529286)
 
 * [下载地址](https://download.lineageos.org/wt88047)
-* [中科大源](https://mirrors.ustc.edu.cn/lineageos/)
+* [中科大源](https://mirrors.ustc.edu.cn/lineageos/full/wt88047/)
 
 ### AICP (Android Ice Cold Project)
 
