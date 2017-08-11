@@ -191,7 +191,7 @@
 
 ### Zetsubou
 
-> [by Ashish94](https://forum.xda-developers.com/redmi-2/development/kernel-hexawinter-performance-flux-t3553304)
+> [by Ashish94](https://forum.xda-developers.com/redmi-2/development/kernel-zetsubou-17-dec-t3520825)
 
 支持:Android 6.0~7.x
 
@@ -201,7 +201,7 @@
 
 ### LateAutumn
 
-> [by iamsubhranil](http://forum.xda-developers.com/devdb/project/?id=17175#downloads)
+> [by iamsubhranil](https://forum.xda-developers.com/redmi-2/development/kernel-lateautumn-project-t3468745)
 
 支持:Android 6.0~7.x
 
