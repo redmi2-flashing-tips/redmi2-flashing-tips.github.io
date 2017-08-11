@@ -106,6 +106,126 @@
 
 **注意!64位需要在MIUI 5.1 bootloader环境下运行，刷64bit twrp或ROM前需要5.1底包**
 
+
+##### MIUI海外版
+
+### MIUI Pro (白俄罗斯)
+
+* [移动-开发7.6.8](http://miuipro.ru/rommgr/device_view/464)
+* [联电-开发7.6.8](http://miuipro.ru/rommgr/device_view/465)
+
+### MIUI su (俄罗斯)
+
+* [移动-开发7.6.8](https://miui.su/firmware_manager/model_view/338/)
+* [联电-开发7.6.8](https://miui.su/firmware_manager/model_view/337/)
+
+### MIUI XTRV (希腊)
+
+* [移动-开发7.6.8](https://www.androidfilehost.com/?fid=889764386195906499)
+* [联电-开发7.6.8](https://www.androidfilehost.com/?fid=745425885120739129)
+* [移动-稳定8.2.1.0](https://www.androidfilehost.com/?fid=529152257862710908)
+* [联电-稳定8.2.1.0](https://www.androidfilehost.com/?fid=817550096634753883)
+ 
+### MIUI eu (欧洲版)
+ 
+ * [移动-开发7.3.30](https://www.androidfilehost.com/?fid=673368273298943722)
+ * [联电-开发7.3.30](https://www.androidfilehost.com/?fid=745425885120720609)
+ * [移动-稳定8.2.1.0](https://www.androidfilehost.com/?fid=529152257862709974)
+ * [联电-稳定8.2.1.0](https://www.androidfilehost.com/?fid=529152257862709975)
+ 
+ **[MIUI海外版谷歌服务去除包](http://pan.baidu.com/share/link?shareid=2220997702&uk=926119307)**
+ 
+ # Recovery资源
+ 
+ ### TWRP 3.1.1-0 (Official)
+ 
+ > [by nicknitewolf](https://forum.xda-developers.com/redmi-2/development/recovery-twrp-touch-recovery-t3611503)
+
+语言:支持中文，默认英文
+
+设备:wt88047
+
+* [下载地址](https://dl.twrp.me/wt88047/twrp-3.1.1-0-wt88047.img.html)
+
+### TWRP 3.1.1-0 (64bit)
+
+> [by pirej](https://forum.xda-developers.com/redmi-2/development/wip-cafaosp7-x-x-redmi2-wt88047-t3569726)
+
+语言:默认英文，不支持中文
+
+设备: wt88047
+
+* [下载地址](https://www.androidfilehost.com/?fid=889764386195900855)
+
+### TWRP 3.0.2-0
+
+> [by ketut.kumajaya](https://forum.xda-developers.com/redmi-2/development/recovery-recovery-built-source-inside-t3277621)
+
+
+语言:不支持中文
+
+设备:HM2014811
+
+* [下载地址](https://www.androidfilehost.com/?fid=24533100289591162)
+
+### TWRP 3.0.0-0.1
+
+> [by 时代的导航者](http://blog.sina.cn/dpool/blog/s/blog_beaf52dc0102w9w8.html?type=-1)
+
+语言:默认中文
+设备签名:HM2014811或HM2014813
+
+* [作者度盘(密码yf1n](http://pan.baidu.com/s/1mgYWx0c)
+
+### Mi-Recovery
+
+> 来自官方开发版7.3.30
+
+* [度盘搬运](http://pan.baidu.com/share/link?shareid=2513944027&uk=926119307)
+
+# 第三方Kernel
+
+### Zetsubou
+
+> [by Ashish94](https://forum.xda-developers.com/redmi-2/development/kernel-hexawinter-performance-flux-t3553304)
+
+支持:Android 6.0~7.x
+
+频率:CPU 1.8GHz/GPU 620MHz
+
+* [下载地址](https://drive.google.com/drive/mobile/folders/0B2_mFAT8KtIZM0o2ZlBTVmExQ1k?usp=sharing)
+
+### LateAutumn
+
+> [by iamsubhranil](http://forum.xda-developers.com/devdb/project/?id=17175#downloads)
+
+
+支持:Android 6.0~7.x
+
+频率:CPU 1.8GHz/GPU 720MHz
+
+* [下载地址](http://forum.xda-developers.com/devdb/project/?id=17175#downloads)
+
+### jerrica Cosmos
+
+> [by premaca](http://forum.xda-developers.com/redmi-2/development/kernel-jerrica-v1-1-t3395691)
+
+支持:MiUi(KK/LP)/5.x/6.0.1/7.X
+ 
+频率:CPU 1.4GHz/GPU 465MHz
+
+* [下载地址](https://www.androidfilehost.com/?w=files&flid=66952)
+
+### HexaTurbo
+
+> [by TecnoTailsPlays](https://forum.xda-developers.com/redmi-2/development/kernel-hexawinter-performance-flux-t3553304)
+
+支持:Android 6.0~7.x
+
+频率:CPU 1.2GHz/GPU 620MHz
+
+* [下载地址](https://www.androidfilehost.com/?w=files&flid=152113)
+
 ------
 如有任何问题，欢迎您前往本 GitHub Pages 的 [Issues](https://github.com/redmi2-flashing-tips/redmi2-flashing-tips.github.io/issues) 页面新建 Issue 询问
 
