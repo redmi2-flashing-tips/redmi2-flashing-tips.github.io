@@ -1,6 +1,8 @@
 **刷机有风险，请谨慎考虑**
 
-**仅供学习交流，如有版权问题，请联系我删改**
+**页面内容仅供学习交流**
+
+**如有版权问题，请联系我删改**
 
 # 第三方ROM
 
@@ -269,7 +271,7 @@
 
 ### Xposed (暂不支持Android 7.0+)
 
-> [by Rovo89](http://forum.xda-developers.com/showthread.php?t=3034811) & [by DVDAndroid](http://forum.xda-developers.com/devdb/project/?id=13191#downloads)
+> [by Rovo89](http://forum.xda-developers.com/showthread.php?t=3034811) & [by DVDAndroid](https://forum.xda-developers.com/xposed/material-design-xposed-installer-t3137758)
 
 * [Xposed框架包](http://dl-xda.xposed.info/framework/)
 * [Xposed Installer](http://forum.xda-developers.com/devdb/project/?id=13191#downloads)
