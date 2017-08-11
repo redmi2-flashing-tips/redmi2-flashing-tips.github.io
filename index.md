@@ -55,7 +55,7 @@
 
 > [by pirej](https://forum.xda-developers.com/redmi-2/development/wip-cafaosp7-x-x-redmi2-wt88047-t3569726)
 
-* [下载地址](https://www.androidfilehost.com/?fid=673368273298975544)
+* [下载地址](https://www.androidfilehost.com/?w=files&flid=168928)
 * [64bit TWRP](https://www.androidfilehost.com/?fid=889764386195900855)
 
 **Marshmallow**
