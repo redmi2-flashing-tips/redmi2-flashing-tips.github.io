@@ -183,6 +183,25 @@
 
 * [度盘搬运](http://pan.baidu.com/share/link?shareid=2513944027&uk=926119307)
 
+# 红米2常见问题解决
+
+### 基带未知
+
+> 可能是第三方ROM对官方4.4基带会有识别未知基带的问题，建议刷入官方5.1的新基带镜像
+
+* [红米2基带卡刷包](http://pan.baidu.com/share/link?shareid=2535945167&uk=926119307)
+
+### 无法开机或无限重启
+
+> 可能是引导(bootloader)不兼容的问题，建议试试4.4底包或者5.1底包
+
+* [官方提取包](http://pan.baidu.com/share/link?shareid=2668791481&uk=926119307)
+
+### This packge is for "wt88047" devices ; this is a "HM2014811
+
+> 如果刷机过程中TWRP提示这个错误，是因为包对设备识别不符而被拒绝的原因.类似以上，意思是此包适用于“wt88047”设备，你设备是“HM2014811”.
+
+
 # 第三方Kernel
 
 ### Zetsubou
@@ -248,8 +267,7 @@
 
 ### Xposed (暂不支持Android 7.0+)
 
-> [by Rovo89](http://forum.xda-developers.com/showthread.php?t=3034811)
-> [by DVDAndroid](http://forum.xda-developers.com/devdb/project/?id=13191#downloads)
+> [by Rovo89](http://forum.xda-developers.com/showthread.php?t=3034811) & [by DVDAndroid](http://forum.xda-developers.com/devdb/project/?id=13191#downloads)
 
 * [Xposed框架包](http://dl-xda.xposed.info/framework/)
 * [Xposed Installer](http://forum.xda-developers.com/devdb/project/?id=13191#downloads)
