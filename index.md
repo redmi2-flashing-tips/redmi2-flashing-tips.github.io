@@ -60,6 +60,12 @@
 * [下载地址](https://www.androidfilehost.com/?w=files&flid=168928)
 * [64bit TWRP](https://www.androidfilehost.com/?fid=889764386195900855)
 
+### Pure Nexus (目前停止更新)
+
+> [by Rahif M](https://forum.xda-developers.com/redmi-2/development/rom-pure-nexus-substratum-t3584692)
+
+* [下载地址](https://www.androidfilehost.com/?fid=529152257862722945)
+
 **Marshmallow**
 
 ### CyanogenMod 13
@@ -271,7 +277,7 @@
 
 ### Xposed (暂不支持Android 7.0+)
 
-> [by Rovo89](http://forum.xda-developers.com/showthread.php?t=3034811) & [by DVDAndroid](https://forum.xda-developers.com/xposed/material-design-xposed-installer-t3137758)
+> [by Rovo89](http://forum.xda-developers.com/showthread.php?t=3034811) & [by DVDandroid](https://forum.xda-developers.com/xposed/material-design-xposed-installer-t3137758)
 
 * [Xposed框架包](http://dl-xda.xposed.info/framework/)
 * [Xposed Installer](http://forum.xda-developers.com/devdb/project/?id=13191#downloads)
