@@ -6,7 +6,7 @@
 
 # 第三方ROM
 
-**Nougat**
+**———Nougat———**
 
 ### LineageOS
 
@@ -66,7 +66,7 @@
 
 * [下载地址](https://www.androidfilehost.com/?fid=529152257862722945)
 
-**Marshmallow**
+**———Marshmallow———**
 
 ### CyanogenMod 13
 
@@ -88,7 +88,7 @@
 
 * [下载地址](https://www.androidfilehost.com/?fid=24686681827315630)
 
-**Lollipop**
+**———Lollipop———**
 
 **以下ROM请看度盘搬运内的刷前说明，可能不适合日常使用**
 
@@ -119,7 +119,7 @@
 **注意!64位需要在MIUI 5.1 bootloader环境下运行，刷64bit twrp或ROM前需要5.1底包**
 
 
-**MIUI海外版**
+**———MIUI海外版———**
 
 ### MIUI Pro (白俄罗斯)
 
@@ -179,6 +179,14 @@
 设备:HM2014811
 
 * [下载地址](https://www.androidfilehost.com/?fid=24533100289591162)
+
+### TWRP 3.0.2-0
+
+> [by brigudav](http://en.miui.com/thread-249552-1-1.html)
+
+语言:支持中文，默认英文
+
+* [度盘搬运](http://pan.baidu.com/share/link?shareid=2360321859&uk=926119307)
 
 ### TWRP 3.0.0-0.1
 
