@@ -186,6 +186,8 @@
 
 语言:支持中文，默认英文
 
+设备:wt86047、wt88047
+
 * [度盘搬运](http://pan.baidu.com/share/link?shareid=2360321859&uk=926119307)
 
 ### TWRP 3.0.0-0.1
@@ -193,6 +195,7 @@
 > [by 时代的导航者](http://blog.sina.cn/dpool/blog/s/blog_beaf52dc0102w9w8.html?type=-1)
 
 语言:默认中文
+
 设备签名:HM2014811或HM2014813
 
 * [作者度盘(密码yf1n](http://pan.baidu.com/s/1mgYWx0c)
