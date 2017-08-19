@@ -137,7 +137,7 @@
 * [移动-稳定8.2.1.0](https://www.androidfilehost.com/?fid=529152257862710908)
 * [联电-稳定8.2.1.0](https://www.androidfilehost.com/?fid=817550096634753883)
  
-### MIUI eu (欧洲版)
+### MIUI eu (波兰|欧洲)
  
 > [miuipolska.pl](https://miuipolska.pl/download/)
  
