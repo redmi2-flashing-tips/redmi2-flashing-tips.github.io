@@ -214,7 +214,7 @@
 
 # 第三方Kernel
 
-**想体验完整内核功能，需安装[Kernel Adiutor](https://wap.shouji.com.cn/down/31126.html)
+**想体验完整内核功能，需安装[Kernel Adiutor](https://wap.shouji.com.cn/down/31126.html)**
 
 ### Zetsubou
 
