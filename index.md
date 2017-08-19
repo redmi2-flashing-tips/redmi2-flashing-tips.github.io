@@ -149,6 +149,10 @@
  
 # Recovery资源
 
+**红米2有增强&标配区分，小米给红米2五个设备名**
+**标配(官方4.4) 2014811(联通)、2014812(电信)、2014813(移动)**
+**增强(官方5.1) wt86047(移动)、wt88047(联通&电信)**
+
 ### TWRP 3.1.1-0 (Official)
  
 > [by nicknitewolf](https://forum.xda-developers.com/redmi-2/development/recovery-twrp-touch-recovery-t3611503)
