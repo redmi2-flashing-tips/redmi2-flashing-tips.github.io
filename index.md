@@ -121,17 +121,16 @@
 
 **———MIUI海外版———**
 
-### MIUI Pro (白俄罗斯)
-
-* [移动-开发7.6.8](http://miuipro.ru/rommgr/device_view/464)
-* [联电-开发7.6.8](http://miuipro.ru/rommgr/device_view/465)
-
 ### MIUI su (俄罗斯)
+
+> [miui.su](https://miui.su/download)
 
 * [移动-开发7.6.8](https://miui.su/firmware_manager/model_view/338/)
 * [联电-开发7.6.8](https://miui.su/firmware_manager/model_view/337/)
 
 ### MIUI XTRV (希腊)
+
+> [xiaomi.miui.gr](https://xiaomi-miui.gr/community/wsif/index.php/Category/365-%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AD%CF%82-MIUI-ROMS-XTRV/)
 
 * [移动-开发7.6.8](https://www.androidfilehost.com/?fid=889764386195906499)
 * [联电-开发7.6.8](https://www.androidfilehost.com/?fid=745425885120739129)
@@ -139,6 +138,8 @@
 * [联电-稳定8.2.1.0](https://www.androidfilehost.com/?fid=817550096634753883)
  
 ### MIUI eu (欧洲版)
+ 
+> [miuipolska.pl](https://miuipolska.pl/download/)
  
 * [移动-开发7.3.30](https://www.androidfilehost.com/?fid=673368273298943722)
 * [联电-开发7.3.30](https://www.androidfilehost.com/?fid=745425885120720609)
