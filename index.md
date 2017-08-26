@@ -284,13 +284,19 @@
 
 * [下载地址](http://opengapps.org)
 
-### SuperSU
+### SuperSU (Root)
 
 > [by Chainfire](https://forum.xda-developers.com/apps/supersu/2014-09-02-supersu-v2-05-t2868133)
 
-* [下载地址](https://download.chainfire.eu/1115/SuperSU/SR2-SuperSU-v2.82-SR2-20170808115921.zip)
+* [下载地址](http://download.chainfire.eu/1122/SuperSU/SR3-SuperSU-v2.82-SR3-20170813133244.zip)
 
-### Magisk
+### Lineage SU (Root)
+
+* [下载地址](https://download.lineageos.org/extras)
+
+* [中科大源](https://mirrors.ustc.edu.cn/lineageos/su/)
+
+### Magisk (Root+Systemless)
 
 > [by topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
