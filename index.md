@@ -1,3 +1,5 @@
+![LineageOS](https://lh3.googleusercontent.com/-eAwukrnUcv0/AAAAAAAAAAI/AAAAAAAAAA4/9AoF2GD_RVs/w1080-h609-p-rw/photo.jpg)
+
 **刷机有风险，请谨慎考虑**
 
 **页面内容仅供学习交流**
