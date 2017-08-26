@@ -14,6 +14,7 @@
 
 * [下载地址](https://download.lineageos.org/wt88047)
 * [中科大源](https://mirrors.ustc.edu.cn/lineageos/full/wt88047/)
+* [清华大源](https://mirrors.tuna.tsinghua.edu.cn/lineage-rom/full/wt88047/)
 
 ### AICP (Android Ice Cold Project)
 
