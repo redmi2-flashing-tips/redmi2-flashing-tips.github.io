@@ -38,7 +38,7 @@
 
 > [by Keertesh](https://forum.xda-developers.com/redmi-2/development/rom-viperos-t3626150)
 
-* [下载地址](https://download.viper-os.com/CODENAME/)
+* [下载地址](https://download.viper-os.com/wt88047/)
 
 ### AOSP Extended
 
@@ -286,7 +286,7 @@
 
 * [下载地址](http://opengapps.org)
 
-### SuperSU (Root)
+### SuperSU v2.82-SR3 (Root)
 
 > [by Chainfire](https://forum.xda-developers.com/apps/supersu/2014-09-02-supersu-v2-05-t2868133)
 
@@ -298,18 +298,26 @@
 
 * [中科大源](https://mirrors.ustc.edu.cn/lineageos/su/)
 
-### Magisk (Root+Systemless)
+### Magisk v14.0 (Root+Systemless)
 
 > [by topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
-* [下载地址](https://forum.xda-developers.com/attachment.php?attachmentid=4217245&d=1500493800)
+* [下载地址](https://forum.xda-developers.com/attachment.php?attachmentid=4264532&d=1504713887)
 
 ### Xposed (暂不支持Android 7.0+)
 
+> official版不支持MIUI或Samsung，需专用版
 > [by Rovo89](http://forum.xda-developers.com/showthread.php?t=3034811) & [by DVDandroid](https://forum.xda-developers.com/xposed/material-design-xposed-installer-t3137758)
 
 * [Xposed框架包](http://dl-xda.xposed.info/framework/)
 * [Xposed Installer](http://forum.xda-developers.com/devdb/project/?id=13191#downloads)
+
+### Xposed for MIUI
+
+> 仅支持MIUI
+
+* [下载地址](https://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634)
+
 
 ### TWRP
 
