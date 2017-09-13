@@ -306,8 +306,9 @@
 
 ### Xposed (暂不支持Android 7.0+)
 
-> official版不支持MIUI或Samsung，需专用版
 > [by Rovo89](http://forum.xda-developers.com/showthread.php?t=3034811) & [by DVDandroid](https://forum.xda-developers.com/xposed/material-design-xposed-installer-t3137758)
+
+> official版不支持MIUI或Samsung，需专用版
 
 * [Xposed框架包](http://dl-xda.xposed.info/framework/)
 * [Xposed Installer](http://forum.xda-developers.com/devdb/project/?id=13191#downloads)
