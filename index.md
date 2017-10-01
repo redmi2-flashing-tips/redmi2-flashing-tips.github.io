@@ -1,5 +1,3 @@
-![LineageOS](https://lh3.googleusercontent.com/-eAwukrnUcv0/AAAAAAAAAAI/AAAAAAAAAA4/9AoF2GD_RVs/w1080-h609-p-rw/photo.jpg)
-
 **刷机有风险，请谨慎考虑**
 
 **页面内容仅供学习交流**
@@ -15,8 +13,8 @@
 > [by nicknitewolf](https://forum.xda-developers.com/redmi-2/development/rom-lineageos-14-1-t3529286)
 
 * [下载地址](https://download.lineageos.org/wt88047)
-* [清华大源](https://mirrors.tuna.tsinghua.edu.cn/lineage-rom/full/wt88047/)
-* [中科大源](https://mirrors.ustc.edu.cn/lineageos/full/wt88047/)
+* [下载地址(清华)](https://mirrors.tuna.tsinghua.edu.cn/lineage-rom/full/wt88047/)
+* [下载地址(中科)](https://mirrors.ustc.edu.cn/lineageos/full/wt88047/)
 
 ### AICP (Android Ice Cold Project)
 
@@ -280,55 +278,13 @@
 
 # 常用资源
 
-### Open Gapps (谷歌服务包)
+### Root权限(SU)
 
-> [by MastahF](http://forum.xda-developers.com/android/software/pa-gapps-continuation-t3098071)
+[SuperSU](https://forum.xda-developers.com/apps/supersu/2014-09-02-supersu-v2-05-t2868133)
 
-* [下载地址](http://opengapps.org)
+[Magisk](http://tiny.cc/latestmagisk)
 
-### SuperSU v2.82-SR3 (Root)
-
-> [by Chainfire](https://forum.xda-developers.com/apps/supersu/2014-09-02-supersu-v2-05-t2868133)
-
-* [下载地址](http://download.chainfire.eu/1122/SuperSU/SR3-SuperSU-v2.82-SR3-20170813133244.zip)
-
-### Lineage SU (Root)
-
-* [下载地址](https://download.lineageos.org/extras)
-
-* [中科大源](https://mirrors.ustc.edu.cn/lineageos/su/)
-
-### Magisk v14.0 (Root+Systemless)
-
-> [by topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
-
-* [下载地址](https://forum.xda-developers.com/attachment.php?attachmentid=4264532&d=1504713887)
-
-### Xposed (暂不支持Android 7.0+)
-
-> [by Rovo89](http://forum.xda-developers.com/showthread.php?t=3034811) & [by DVDandroid](https://forum.xda-developers.com/xposed/material-design-xposed-installer-t3137758)
-
-> official版不支持MIUI或Samsung，需专用版
-
-* [Xposed框架包](http://dl-xda.xposed.info/framework/)
-* [Xposed Installer](http://forum.xda-developers.com/devdb/project/?id=13191#downloads)
-
-### Xposed for MIUI
-
-> 仅支持MIUI
-
-* [下载地址](https://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634)
-
-
-### TWRP
-
-* [官网地址](https://twrp.me/Devices/)
-
-### TWRP Materialised (TWRP主题)
-
-> [by z31s1g](https://forum.xda-developers.com/android/themes/theme-twrp-materialised-dark-light-play-t2915584)
-
-* [下载地址](https://www.androidfilehost.com/?w=files&flid=189837)
+[LineageOS(SU)](https://download.lineageos.org/extras)
 
 ------
 如有任何问题，欢迎您前往本 GitHub Pages 的 [Issues](https://github.com/redmi2-flashing-tips/redmi2-flashing-tips.github.io/issues) 页面新建 Issue 询问
