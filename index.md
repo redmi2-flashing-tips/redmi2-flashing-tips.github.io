@@ -290,15 +290,27 @@
 ### Xposed框架(注意风险)
 > 如果你没听说过**软变砖**或**无限重启**，又或者你不知道如何在特殊情况中恢复手机，那么请不要安装Xposed。
 
-##### 1.需安装[Xposed Installer](https://forum.xda-developers.com/attachment.php?attachmentid=3921508&d=1477916609)，如果是MIUI用户或需要Systemless建议用DVDandroid版的[Xposed Installer](https://forum.xda-developers.com/devdb/project/?id=13191#downloads)。
+#### 1.需安装[Xposed Installer](https://forum.xda-developers.com/attachment.php?attachmentid=3921508&d=1477916609)，如果是MIUI用户或需要Systemless建议用DVDandroid版的[Xposed Installer](https://forum.xda-developers.com/devdb/project/?id=13191#downloads)。(Android 4.4用户请看3.)
 
-##### 2.选择合适的框架(注意区分SDK版本和arm、arm64)
+#### 2.选择合适的框架并安装(注意区分SDK版本和arm、arm64)
 
 5.0(**sdk21**)、5.1(**sdk22**)、6.0(**sdk23**)、7.0(**sdk24**)、7.1(**sdk25**)
 
 **MIUI**需SolarWarez做的**MIUI版Xposed**(如果MIUI安装OFFICIAL版Xposed会提示未激活)
 
 安装**Systemless版Xposed**前，需安装**Magisk**
+
+#### 3.一些Xposed的相关资源
+
+[4.4 官方版Xposed Installer](http://dl-xda.xposed.info/modules/de.robv.android.xposed.installer_v33_36570c.apk)
+
+[4.4 MIUI版Xposed Installer](https://forum.xda-developers.com/attachment.php?attachmentid=3559145&d=1448805545)
+
+[5.0~6.0 官方框架包](http://dl-xda.xposed.info/framework/)
+
+[5.0~6.0 MIUI版框架包](http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634)
+
+[5.0~7.1 Systemlss版框架包](https://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268)
 
 ------
 如有任何问题，欢迎您前往本 GitHub Pages 的 [Issues](https://github.com/redmi2-flashing-tips/redmi2-flashing-tips.github.io/issues) 页面新建 Issue 询问
