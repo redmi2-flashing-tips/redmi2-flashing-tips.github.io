@@ -279,12 +279,16 @@
 # 常用资源
 
 ### Root权限(SU)
+> **Magisk**仅支持Android 5.0及以上，**SuperSU**支持Android 2.3及以上，**LineageSU**仅对LineageOS(或CM)类有效
 
 [SuperSU](https://forum.xda-developers.com/apps/supersu/2014-09-02-supersu-v2-05-t2868133)
 
 [Magisk](http://tiny.cc/latestmagisk)
 
-[LineageOS(SU)](https://download.lineageos.org/extras)
+[LineageSU](https://download.lineageos.org/extras)
+
+### Xposed框架
+> 需安装[Xposed Installer](https://forum.xda-developers.com/attachment.php?attachmentid=3921508&d=1477916609)，如果是MIUI用户或需要Systemless要用DVDandroid版的[Xposed Installer](https://forum.xda-developers.com/devdb/project/?id=13191#downloads)
 
 ------
 如有任何问题，欢迎您前往本 GitHub Pages 的 [Issues](https://github.com/redmi2-flashing-tips/redmi2-flashing-tips.github.io/issues) 页面新建 Issue 询问
