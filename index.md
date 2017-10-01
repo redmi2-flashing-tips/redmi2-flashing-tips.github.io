@@ -296,6 +296,8 @@
 
 5.0(**sdk21**)、5.1(**sdk22**)、6.0(**sdk23**)、7.0(**sdk24**)、7.1(**sdk25**)
 
+一般的第三方ROM建议安装**OFFICIAL版Xposed**
+
 **MIUI**需SolarWarez做的**MIUI版Xposed**(如果MIUI安装OFFICIAL版Xposed会提示未激活)
 
 安装**Systemless版Xposed**前，需安装**Magisk**
