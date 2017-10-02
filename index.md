@@ -126,15 +126,15 @@
 
 > [miui.su](https://miui.su/download)
 
-* [移动-开发7.6.8](https://miui.su/firmware_manager/model_view/338/)
-* [联电-开发7.6.8](https://miui.su/firmware_manager/model_view/337/)
+* [移动-开发](https://miui.su/firmware_manager/model_view/338/)
+* [联电-开发](https://miui.su/firmware_manager/model_view/337/)
 
 ### MIUI XTRV (希腊)
 
 > [xiaomi.miui.gr](https://xiaomi-miui.gr/community/wsif/index.php/Category/365-%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AD%CF%82-MIUI-ROMS-XTRV/)
 
 * [移动-开发7.6.8](https://www.androidfilehost.com/?fid=889764386195906499)
-* [联电-开发7.6.8](https://www.androidfilehost.com/?fid=745425885120739129)
+* [联电-开发7.9.7](https://androidfilehost.com/?fid=889764386195929403)
 * [移动-稳定8.2.1.0](https://www.androidfilehost.com/?fid=529152257862710908)
 * [联电-稳定8.2.1.0](https://www.androidfilehost.com/?fid=817550096634753883)
  
@@ -157,7 +157,7 @@
 
 **增强(官方5.1) wt86047(移动)、wt88047(联通&电信)**
 
-### TWRP 3.1.1-0 (Official)
+### TWRP 3.1.1 (Official)
  
 > [by nicknitewolf](https://forum.xda-developers.com/redmi-2/development/recovery-twrp-touch-recovery-t3611503)
 
@@ -167,7 +167,7 @@
 
 * [下载地址](https://dl.twrp.me/wt88047/twrp-3.1.1-0-wt88047.img.html)
 
-### TWRP 3.1.1-0 (64bit)
+### TWRP 3.1.1 (64bit)
 
 > [by pirej](https://forum.xda-developers.com/redmi-2/development/wip-cafaosp7-x-x-redmi2-wt88047-t3569726)
 
@@ -177,7 +177,7 @@
 
 * [下载地址](https://www.androidfilehost.com/?fid=889764386195900855)
 
-### TWRP 3.0.2-0
+### TWRP 3.0.2
 
 > [by ketut.kumajaya](https://forum.xda-developers.com/redmi-2/development/recovery-recovery-built-source-inside-t3277621)
 
@@ -188,7 +188,7 @@
 
 * [下载地址](https://www.androidfilehost.com/?fid=24533100289591162)
 
-### TWRP 3.0.2-0
+### TWRP 3.0.2
 
 > [by brigudav](http://en.miui.com/thread-249552-1-1.html)
 
@@ -198,7 +198,7 @@
 
 * [度盘搬运](http://pan.baidu.com/share/link?shareid=2360321859&uk=926119307)
 
-### TWRP 3.0.0-0.1(集成adb刷入工具#需电脑)
+### TWRP 3.0.0(集成PC端ADB刷入工具)
 
 > [by 时代的导航者](http://blog.sina.cn/dpool/blog/s/blog_beaf52dc0102w9w8.html?type=-1)
 
