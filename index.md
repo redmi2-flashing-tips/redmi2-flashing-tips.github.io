@@ -198,7 +198,7 @@
 
 * [度盘搬运](http://pan.baidu.com/share/link?shareid=2360321859&uk=926119307)
 
-### TWRP 3.0.0-0.1
+### TWRP 3.0.0-0.1(集成adb刷入工具#需电脑)
 
 > [by 时代的导航者](http://blog.sina.cn/dpool/blog/s/blog_beaf52dc0102w9w8.html?type=-1)
 
@@ -325,17 +325,33 @@
 ### 刷入Recovery方法
 >红米2一般是不会有bootloader锁，如果你是有锁机型(例如红米note 4x)，请解锁再尝试以下教程
 
-#### 方法一(需Root)
+**通用方法(需Root)**
 
-步骤一：你需要下载好**TWRP**和**Recovery刷机工具**
+1.你需要下载好**TWRP镜像**(参考上面Recovery资源)和**Recovery刷机工具**(推荐下载[Rashr](https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=165552))
 
-这里推荐下载[Rashr](https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=165552)
+2.安装并打开Rashr，点击**刷写其他Recovery**
 
-点击**刷写其他Recovery**
+3.再找到你下载的**TWRP镜像**路径(浏览器一般放在**Download**文件夹)
 
-再找到你下载的**twrp**路径(浏览器一般放在**Download**文件夹)
+4.点击**确定**刷入并重启
 
-点击**确定**刷入
+5.如果看到一个新界面就算成功了
+
+**电脑线刷方法(不需Root)**
+
+1.你需要下载并解压好**TWRP刷入工具**(上面有个时代的导航者制作的)
+
+2.手机进入**fastboot模式**，并查看手机是否连接异常
+
+3.打开解压得到的文件夹，点击**刷写twrp.bat**(bat格式的文件是批处理脚本，可以帮你执行完成刷机命令)
+
+4.根据弹出的窗口提示输入，回车键执行
+
+5.若手机重启到一个新界面，那么就算成功了
+
+(感兴趣的同学可以研究一下**ADB**指令)
+
+
 
 ------
 如有任何问题，欢迎您前往本 GitHub Pages 的 [Issues](https://github.com/redmi2-flashing-tips/redmi2-flashing-tips.github.io/issues) 页面新建 Issue 询问
