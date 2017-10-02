@@ -206,7 +206,7 @@
 
 设备签名:HM2014811、HM2014813
 
-* [作者度盘(密码yf1n](http://pan.baidu.com/s/1mgYWx0c)
+* [作者度盘](http://pan.baidu.com/s/1mgYWx0c)(密码yf1n)
 
 ### Mi-Recovery
 
@@ -313,6 +313,14 @@
 [5.0~6.0 MIUI版框架包](http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634)
 
 [5.0~7.1 Systemlss版框架包](https://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268)
+
+# 小白刷机教程
+
+### 刷入Recovery方法
+>
+
+
+
 
 ------
 如有任何问题，欢迎您前往本 GitHub Pages 的 [Issues](https://github.com/redmi2-flashing-tips/redmi2-flashing-tips.github.io/issues) 页面新建 Issue 询问
