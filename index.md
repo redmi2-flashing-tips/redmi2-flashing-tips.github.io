@@ -339,9 +339,9 @@
 
 **电脑线刷方法(不需Root)**
 
-1.你需要下载并解压好**TWRP刷入工具**(上面有个时代的导航者制作的)
+1.你需要下载并解压好**TWRP刷入工具**(这里时代的导航者做的[红米2刷机工具](http://blog.sina.cn/dpool/blog/s/blog_beaf52dc0102w9w8.html?type=-1)作为参考)
 
-2.手机进入**fastboot模式**，并查看手机是否连接异常
+2.手机进入**fastboot模式**，并连接电脑(记得看看电脑是否连接正常)
 
 3.打开解压得到的文件夹，点击**刷写twrp.bat**(bat格式的文件是批处理脚本，可以帮你执行完成刷机命令)
 
@@ -351,7 +351,11 @@
 
 (感兴趣的同学可以研究一下**ADB**指令)
 
+### TWRP刷入第三方ROM方法
 
+什么是TWRP呢？大概是这个样子
+
+![TWRP 3.1.1](https://i.loli.net/2017/10/02/59d1cbe6b6de2.jpg)
 
 ------
 如有任何问题，欢迎您前往本 GitHub Pages 的 [Issues](https://github.com/redmi2-flashing-tips/redmi2-flashing-tips.github.io/issues) 页面新建 Issue 询问
