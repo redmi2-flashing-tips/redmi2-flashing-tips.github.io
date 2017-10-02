@@ -329,9 +329,13 @@
 
 步骤一：你需要下载好**TWRP**和**Recovery刷机工具**
 
+这里推荐下载[Rashr](https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=165552)
 
+![刷写其他Recovery](https://i.loli.net/2017/10/02/59d1c61f4a4ce.jpg)
 
+![找到twrp路径](https://i.loli.net/2017/10/02/59d1c690a3547.jpg)
 
+![确定刷入](https://i.loli.net/2017/10/02/59d1c6f6838a8.jpg)
 
 ------
 如有任何问题，欢迎您前往本 GitHub Pages 的 [Issues](https://github.com/redmi2-flashing-tips/redmi2-flashing-tips.github.io/issues) 页面新建 Issue 询问
