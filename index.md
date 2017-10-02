@@ -300,6 +300,8 @@
 
 **MIUI**需SolarWarez做的**MIUI版Xposed**(如果MIUI安装OFFICIAL版Xposed会提示未激活)
 
+**UNOFFICIAL**的**sdk24~25 Xposed**可能尚未稳定，需谨慎并做好救砖准备
+
 安装**Systemless版Xposed**前，需安装**Magisk**
 
 #### 3.一些Xposed的相关资源
