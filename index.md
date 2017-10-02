@@ -300,7 +300,7 @@
 
 **MIUI**需SolarWarez做的**MIUI版Xposed**(如果MIUI安装OFFICIAL版Xposed会提示未激活)
 
-**UNOFFICIAL**的**sdk24~25 Xposed**可能尚未稳定，也不支持MIUI，需谨慎并做好救砖准备(
+**UNOFFICIAL**的**sdk24~25 Xposed**可能尚未稳定，也不支持MIUI，需谨慎并做好救砖准备
 
 安装**Systemless版Xposed**前，需安装**Magisk**
 
@@ -320,7 +320,7 @@
 
 [7.1 UNOFFICIAL版框架包](https://raw.githubusercontent.com/PurifyOS/Xposed-github/master/classic/SDK25/26-07-17-xposed-v87-sdk25-Xposed-by-PurifyOS.zip)
 
-# 小白刷机教程(刷机有风险)
+# 小白刷机教程(需清楚风险)
 
 ### 刷入Recovery方法
 >红米2一般是不会有bootloader锁，如果你是有锁机型(例如红米note 4x)，请解锁再尝试以下教程
@@ -331,11 +331,11 @@
 
 这里推荐下载[Rashr](https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=165552)
 
-![刷写其他Recovery](https://i.loli.net/2017/10/02/59d1c61f4a4ce.jpg)
+点击**刷写其他Recovery**
 
-![找到twrp路径](https://i.loli.net/2017/10/02/59d1c690a3547.jpg)
+再找到你下载的**twrp**路径(浏览器一般放在**Download**文件夹)
 
-![确定刷入](https://i.loli.net/2017/10/02/59d1c6f6838a8.jpg)
+点击**确定**刷入
 
 ------
 如有任何问题，欢迎您前往本 GitHub Pages 的 [Issues](https://github.com/redmi2-flashing-tips/redmi2-flashing-tips.github.io/issues) 页面新建 Issue 询问
