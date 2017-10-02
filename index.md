@@ -300,7 +300,7 @@
 
 **MIUI**需SolarWarez做的**MIUI版Xposed**(如果MIUI安装OFFICIAL版Xposed会提示未激活)
 
-**UNOFFICIAL**的**sdk24~25 Xposed**可能尚未稳定，需谨慎并做好救砖准备
+**UNOFFICIAL**的**sdk24~25 Xposed**可能尚未稳定，也不支持MIUI，需谨慎并做好救砖准备(
 
 安装**Systemless版Xposed**前，需安装**Magisk**
 
@@ -316,10 +316,19 @@
 
 [5.0~7.1 Systemlss版框架包](https://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268)
 
-# 小白刷机教程
+[7.0 UNOFFICIAL版框架包](https://raw.githubusercontent.com/PurifyOS/Xposed-github/master/classic/SDK24/26-07-17-xposed-v87-sdk24-Xposed-by-PurifyOS.zip)
+
+[7.1 UNOFFICIAL版框架包](https://raw.githubusercontent.com/PurifyOS/Xposed-github/master/classic/SDK25/26-07-17-xposed-v87-sdk25-Xposed-by-PurifyOS.zip)
+
+# 小白刷机教程(刷机有风险)
 
 ### 刷入Recovery方法
->
+>红米2一般是不会有bootloader锁，如果你是有锁机型(例如红米note 4x)，请解锁再尝试以下教程
+
+#### 方法一(需Root)
+
+步骤一：你需要下载好**TWRP**和**Recovery刷机工具**
+
 
 
 
