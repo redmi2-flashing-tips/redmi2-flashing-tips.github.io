@@ -327,7 +327,7 @@
 
 **通用方法(需Root)**
 
-1.你需要下载好**TWRP镜像**(参考上面Recovery资源)和**Recovery刷机工具**(推荐下载[Rashr](https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=165552))
+1.你需要下载好**TWRP镜像**(参考上面Recovery资源)和**Recovery刷机软件**(推荐下载[Rashr](https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=165552))
 
 2.安装并打开Rashr，点击**刷写其他Recovery**
 
@@ -355,7 +355,39 @@
 
 什么是TWRP呢？大概是这个样子
 
-![TWRP 3.1.1](https://i.loli.net/2017/10/02/59d1cbe6b6de2.jpg)
+![TWRP3.1.1-0](https://i.loli.net/2017/10/02/59d1cbe6b6de2.jpg)
+
+#### 注意事项
+
+1.刷机前请注意把**刷机包(ROM)**放到你比较容易找到的位置
+
+2.刷机前请把原系统的**应用数据**或**个人重要信息**备份好(建议备份一下通讯录什么的)
+
+3.刷机前请确保手机有足够**电量**或**电源**
+
+4.刷机过程中会中断手机某些工作，会无法接收到别人的电话或短信
+
+#### 步骤一/清理数据
+
+1.在TWRP主页里，点击**Wipe(清除)**
+
+2.滑动下方**Swipe to Factory Reset(恢复出厂设置)**按钮
+
+(如果你觉得恢复出厂设置不够干净，可以尝试**Advanced Wipe(高级清理)**，分区说明如下
+
+**Dalvik/ART Cache(虚拟机缓存)**(必选)
+
+**System(系统分区)**(谨慎选择，某些情况可能会导致出错)
+
+**Data(用户数据)**(必选)
+
+**Internal Storage(内置存储)**(若有刷机包或视频音乐等文件，可不选)
+
+**Cache(缓存数据)**(必选)
+
+**Micro SDCard(SD卡)**(不选)
+
+**USB-OTG(外接存储器)**(不选)
 
 ------
 如有任何问题，欢迎您前往本 GitHub Pages 的 [Issues](https://github.com/redmi2-flashing-tips/redmi2-flashing-tips.github.io/issues) 页面新建 Issue 询问
