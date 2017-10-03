@@ -111,7 +111,7 @@
 
 * [度盘搬运](http://pan.baidu.com/share/link?shareid=3774313830&uk=926119307)
 
-### ColorOS 3.0
+### ColorOS 3.0 (64bit)
 
 > [by Aray](https://www.facebook.com/groups/redmi2s.indonesia/search/?query=aray)
 
