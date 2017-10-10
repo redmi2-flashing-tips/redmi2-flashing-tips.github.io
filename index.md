@@ -302,7 +302,7 @@
 
 **UNOFFICIAL**的**sdk24~25 Xposed**可能尚未稳定，也不支持MIUI，需谨慎并做好救砖准备
 
-安装**Systemless版Xposed**前，需安装**Magisk**
+安装**Systemless版Xposed**前，需安装**Magisk**，并使用Magisk专用版[XposedInstaller]Magisk(https://forum.xda-developers.com/attachment.php?attachmentid=4297539&d=1507562905)
 
 #### 3.一些Xposed的相关资源
 
@@ -314,11 +314,7 @@
 
 [5.0~6.0 MIUI版框架包](http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634)
 
-[5.0~7.1 Systemlss版框架包](https://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268)
-
-[7.0 UNOFFICIAL版框架包](https://raw.githubusercontent.com/PurifyOS/Xposed-github/master/classic/SDK24/26-07-17-xposed-v87-sdk24-Xposed-by-PurifyOS.zip)
-
-[7.1 UNOFFICIAL版框架包](https://raw.githubusercontent.com/PurifyOS/Xposed-github/master/classic/SDK25/26-07-17-xposed-v87-sdk25-Xposed-by-PurifyOS.zip)
+[5.0~7.1 Systemless版框架包](https://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268)
 
 # 小白刷机教程(需清楚风险)
 
