@@ -302,7 +302,7 @@
 
 **UNOFFICIAL**的**sdk24~25 Xposed**可能尚未稳定，也不支持MIUI，需谨慎并做好救砖准备
 
-安装**Systemless版Xposed**前，需安装**Magisk**，并使用Magisk专用版[XposedInstaller]Magisk(https://forum.xda-developers.com/attachment.php?attachmentid=4297539&d=1507562905)
+安装**Systemless版Xposed**前，需安装**Magisk**，并使用Magisk专用版[XposedInstallerMagisk](https://forum.xda-developers.com/attachment.php?attachmentid=4297539&d=1507562905)
 
 #### 3.一些Xposed的相关资源
 
