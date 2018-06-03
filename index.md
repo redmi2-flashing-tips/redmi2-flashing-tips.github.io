@@ -28,10 +28,14 @@
 仅测试，Bug多，尝鲜用
 
 [底包] https://androidfilehost.com/?fid=674106145207487873
+
 [Rec] https://androidfilehost.com/?fid=674106145207490190
+
 [Gparted] https://androidfilehost.com/?fid=746163614322266027
+
 [GSI] https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list
-[刷入方式] (/trebleway.md)
+
+[刷入方式] (https://github.com/Flyfish233/redmi2-flashing-tips.github.io/edit/master/trebleway.md)
 
 **———Nougat———**
 
