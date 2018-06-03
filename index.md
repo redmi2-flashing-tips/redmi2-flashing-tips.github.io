@@ -249,6 +249,11 @@
 
 # 第三方Kernel
 
+## O-Lite-Kernel
+> [by karthik km] https://androidfilehost.com/?fid=673956719939830337
+支持:Android 8.0~8.1
+频率:未知
+
 **想体验Kernel的完整功能，需安装[Kernel Adiutor](https://wap.shouji.com.cn/down/31126.html)**
 
 ### Zetsubou
