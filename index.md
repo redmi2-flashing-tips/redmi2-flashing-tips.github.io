@@ -10,7 +10,7 @@
 
 > [By karthik km](https://forum.xda-developers.com/redmi-2/development/rom-resurrection-remix-6-0-t3770154)
 
-* [下载地址](http://dwnld.aicp-rom.com/?device=wt88047)
+* [下载地址](https://sourceforge.net/projects/resurrectionremix-oreo/files/wt88047/)
 ### ViperOS (AOSVP) 
 
 > [By kundan jangir](https://forum.xda-developers.com/redmi-2/development/rom-viperos-aosvp-4-0-t3795842)
