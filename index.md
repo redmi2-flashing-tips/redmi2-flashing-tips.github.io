@@ -35,7 +35,7 @@
 
 [GSI](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list)
 
-[刷入方式](https://github.com/Flyfish233/redmi2-flashing-tips.github.io/edit/master/trebleway.md)
+[刷入方式](https://redmi2-flashing-tips.github.io/trebleway)
 
 **———Nougat———**
 
