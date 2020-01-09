@@ -5,10 +5,41 @@
 **如有版权问题，请联系我删改**
 
 # 第三方ROM
+**———Oreo———**
+### Resurrection Remix
+
+> [By karthik km](https://forum.xda-developers.com/redmi-2/development/rom-resurrection-remix-6-0-t3770154)
+
+* [下载地址](https://sourceforge.net/projects/resurrectionremix-oreo/files/wt88047/)
+### ViperOS (AOSVP) 
+
+> [By kundan jangir](https://forum.xda-developers.com/redmi-2/development/rom-viperos-aosvp-4-0-t3795842)
+
+### MiracleDROID
+
+> [By karthik km](https://forum.xda-developers.com/redmi-2/development/rom-miracledroid-1-0-magical-world-t3782919)
+
+### BootleggersROM
+
+> [By karthik km](https://forum.xda-developers.com/redmi-2/development/rom-t3792456)
+
+### 体验版 GSI(Project Treble)
+
+仅测试，Bug多，尝鲜用
+
+[底包] https://androidfilehost.com/?fid=674106145207487873
+
+[Rec] https://androidfilehost.com/?fid=674106145207490190
+
+[Gparted] https://androidfilehost.com/?fid=746163614322266027
+
+[GSI] https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list
+
+[刷入方式] (https://github.com/Flyfish233/redmi2-flashing-tips.github.io/edit/master/trebleway.md)
 
 **———Nougat———**
 
-### LineageOS
+### LineageOS (无法下载)(目前停止更新)
 
 > [by nicknitewolf](https://forum.xda-developers.com/redmi-2/development/rom-lineageos-14-1-t3529286)
 
@@ -26,19 +57,20 @@
 
 * [下载地址](http://download.mokeedev.com/?device=wt88047)
 
-### Resurrection Remix
+
+### Resurrection Remix （不再更新）
 
 > [by s.sawrav](https://forum.xda-developers.com/redmi-2/development/redmi-2-resurrection-remix-5-8-0-t3530566)
 
 * [下载地址](https://sourceforge.net/projects/resurrectionremix/files/?source=navbar)
 
-### ViperOS
+### ViperOS (下载地址错误)
 
 > [by Keertesh](https://forum.xda-developers.com/redmi-2/development/rom-viperos-t3626150)
 
 * [下载地址](https://download.viper-os.com/wt88047/)
 
-### AOSP Extended
+### AOSP Extended(无法下载)(目前停止更新)
 
 > [by s.sawrav](https://forum.xda-developers.com/redmi-2/development/rom-aospextended-rom-v1-1-t3486744)
 
@@ -50,7 +82,7 @@
 
 * [下载地址](https://www.androidfilehost.com/?a=show&w=files&flid=57852)
 
-### SudaMod
+### SudaMod 
 
 * [下载地址](http://sudamod.download/wt88047)
 
@@ -66,6 +98,7 @@
 > [by Rahif M](https://forum.xda-developers.com/redmi-2/development/rom-pure-nexus-substratum-t3584692)
 
 * [下载地址](https://www.androidfilehost.com/?fid=529152257862722945)
+
 
 **———Marshmallow———**
 
@@ -157,7 +190,7 @@
 
 **增强(官方5.1) wt86047(移动)、wt88047(联通&电信)**
 
-### TWRP 3.1.1 (Official)
+### TWRP 3.2.1 (Official)
  
 > [by nicknitewolf](https://forum.xda-developers.com/redmi-2/development/recovery-twrp-touch-recovery-t3611503)
 
@@ -165,7 +198,7 @@
 
 设备:wt88047
 
-* [下载地址](https://dl.twrp.me/wt88047/twrp-3.1.1-0-wt88047.img.html)
+* [下载地址](https://dl.twrp.me/wt88047/twrp-3.2.1-0-wt88047.img.html)
 
 ### TWRP 3.1.1 (64bit)
 
@@ -215,6 +248,11 @@
 * [度盘搬运](http://pan.baidu.com/share/link?shareid=2513944027&uk=926119307)
 
 # 第三方Kernel
+
+## O-Lite-Kernel
+> [by karthik km] https://androidfilehost.com/?fid=673956719939830337
+支持:Android 8.0~8.1
+频率:未知
 
 **想体验Kernel的完整功能，需安装[Kernel Adiutor](https://wap.shouji.com.cn/down/31126.html)**
 
